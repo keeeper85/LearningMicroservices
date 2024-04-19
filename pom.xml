@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.keeeper</groupId>
-    <artifactId>LearningMicroservices</artifactId>
+    <artifactId>EurekaServer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>LearningMicroservices</name>
-    <description>LearningMicroservices</description>
+    <name>EurekaServer</name>
+    <description>EurekaServer</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>
