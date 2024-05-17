@@ -1,3 +1,3 @@
 Learning how to build microservice architecture
 
-Project abandoned.
+Project abandoned and moved onto Gaminatorium project.
